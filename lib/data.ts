@@ -55,33 +55,47 @@ export const experiencesData = [
     location: "",
     description:
       "Modern University for Technology & Information",
-      icon: React.createElement(CgWorkAlt),
-      date: "2023 - Present",
+    icon: React.createElement(CgWorkAlt),
+    date: "2023 - Present",
   },
 ] as const;
 
 export const projectsData = [
   {
-    title: "CorpComment",
+    title: "Uber Eats Clone",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
-    imageUrl: corpcommentImg,
+      "Contributed to the development of an Uber Eats clone system designed for users, restaurants, delivery drivers, and administrators. Demonstrated expertise in full-stack development, with a focus on implementing user authentication, dynamic listings, real-time tracking, and seamless integration with the Google Maps API.",
+    tags: ["React", "Node.js", "MongoDB", "JavaScript", "SQL", "HTML", "SASS"],
+    url: "https://github.com/sherifabdallah/Uber-Eats-Clone",
   },
+
   {
-    title: "rmtDev",
+    title: "Geekshub",
     description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
-    tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
-    imageUrl: rmtdevImg,
+      "Is a feature-rich social network. It includes a dynamic chat system, post interactions with ’love’ and comments, a robust notification system, email-based password recovery, and an efficient search mechanism, Demonstrated expertise in full-stack development, with a focus on implementing user authentication, dynamic listings.",
+    tags: ["Django", "Python", "JavaScript", "jQuery", "Ajax", "SQL", "CSS"],
+    url: "https://github.com/sherifabdallah/Geekshub",
   },
+
   {
-    title: "Word Analytics",
+    title: "EgyFlix",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: wordanalyticsImg,
+      "EgyFlix is a streaming platform reminiscent of Netflix, offering a diverse selection of content. It provides a user-friendly interface and smooth navigation, allowing viewers to enjoy their favorite shows and movies effortlessly.",
+    tags: ["Django", "Python", "JavaScript", "jQuery", "Ajax", "SQL", "CSS"],
+    url: "https://github.com/sherifabdallah/Egyflix",
   },
+
+  {
+    title: "Social Club",
+    description:
+      "A dynamic Django application meticulously designed to emulate the user experience of Twitter. With its sleek interface and comprehensive functionality, users can engage in real-time conversations, share updates, follow their interests, and connect with others seamlessly, providing an authentic social media experience.",
+    tags: ["Django", "Python", "HTML", "CSS", "JavaScript", "SQL"],
+    url: "https://github.com/sherifabdallah/social-club",
+  },
+
+
+
+
 ] as const;
 
 export const skillsData = [
