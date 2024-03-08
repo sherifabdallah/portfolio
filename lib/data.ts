@@ -39,7 +39,7 @@ export const experiencesData = [
     location: "",
     description:
       "Canspect Corporation",
-    icon: React.createElement(LuGraduationCap),
+    icon: React.createElement(CgWorkAlt),
     date: "2020 - 2021",
   },
   {
@@ -55,7 +55,7 @@ export const experiencesData = [
     location: "",
     description:
       "Modern University for Technology & Information",
-    icon: React.createElement(CgWorkAlt),
+    icon: React.createElement(LuGraduationCap),
     date: "2023 - Present",
   },
 ] as const;
