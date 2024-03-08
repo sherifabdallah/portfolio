@@ -11,7 +11,7 @@ export default function Footer() {
         &copy; {currentYear} Sherif. All rights reserved.
       </small>
       <p className="text-xs">
-        <span className="font-semibold">About this website:</span> built with React & Next.js, TypeScript, Tailwind CSS, Netlify hosting.
+        <span className="font-semibold">About this website:</span> built with React & Next.js, TypeScript, Tailwind CSS, Vercel hosting.
       </p>
     </footer>
   );
