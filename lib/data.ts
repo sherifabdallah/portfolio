@@ -58,6 +58,14 @@ export const experiencesData = [
     icon: React.createElement(LuGraduationCap),
     date: "2023 - Present",
   },
+  {
+    title: "Software Engineer",
+    location: "",
+    description:
+      "Verto Wave",
+    icon: React.createElement(CgWorkAlt),
+    date: "2024 - Present",
+  },
 ] as const;
 
 export const projectsData = [
