@@ -63,8 +63,8 @@ export default function Intro() {
         animate={{ opacity: 1, y: 0 }}
       >
         <span className="font-bold">Hello, I'm Sherif.</span> I'm a{" "}
-        <span className="font-bold">full-stack developer</span>{" "}
-        <br />.I enjoy
+        <span className="font-bold">full-stack developer.</span>{" "}
+        <br />I enjoy
         building <span className="italic">sites & apps</span>.<br /> My focus is{" "}
         <span className="underline">.NET Core & React</span>.
       </motion.h1>
