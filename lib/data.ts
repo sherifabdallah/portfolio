@@ -6,6 +6,31 @@ import corpcommentImg from "@/public/corpcomment.png";
 import rmtdevImg from "@/public/rmtdev.png";
 import wordanalyticsImg from "@/public/wordanalytics.png";
 
+export const skillsData = [
+  ".NET",
+  "Entity Framework",
+  "C#",
+  "Docker",
+  "RabbitMQ",
+  "Elasticsearch",
+  "React",
+  "JavaScript",
+  "SASS & CSS",
+  "REST APIs",
+  "jQuery",
+  "Ajax",
+  "HTML",
+  "Bootstrap",
+  "Python",
+  "Django",
+  "PHP",
+  "SQL",
+  "C++",
+  "Git & GitHub",
+  "Linux",
+
+] as const;
+
 export const links = [
   {
     name: "Home",
@@ -106,31 +131,4 @@ export const projectsData = [
 
 ] as const;
 
-export const skillsData = [
-  "React JS",
-  "React Native",
-  "JavaScript",
-  "SASS & CSS",
-  "REST APIs",
-  "jQuery",
-  "Ajax",
-  "HTML",
-  "Bootstrap",
-  "Python",
-  "Django",
-  "PHP",
-  "SQL",
-  "C++",
-  "C#",
-  "Machine Learning & Deep Learning",
-  "Data Science",
-  "PyTorch",
-  "Pandas",
-  "Matplotlib",
-  "Seaborn",
-  "Web Scraping",
-  "OpenCV",
-  "Git & GitHub",
-  "Linux",
 
-] as const;
