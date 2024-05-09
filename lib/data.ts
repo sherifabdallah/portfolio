@@ -12,6 +12,7 @@ export const skillsData = [
   "C#",
   "Elasticsearch",
   "RabbitMQ",
+  "MassTransit",
   "Blazor",
   "Docker",
   "React",
@@ -29,6 +30,7 @@ export const skillsData = [
   "C++",
   "Git & GitHub",
   "Linux",
+  
 
 ] as const;
 
