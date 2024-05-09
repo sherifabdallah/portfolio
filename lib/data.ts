@@ -62,22 +62,7 @@ export const links = [
 ] as const;
 
 export const experiencesData = [
-  {
-    title: "Front-End Developer",
-    location: "",
-    description:
-      "Canspect Corporation",
-    icon: React.createElement(CgWorkAlt),
-    date: "2020 - 2021",
-  },
-  {
-    title: "Data Science Engineer",
-    location: "Freelance (Self employed)",
-    description:
-      "Executed diverse data science projects, including meteorological and satellite image analysis, Developed an R-based tool for urban dynamics analysis through population data visualization, Created a Python web scraper to gather country data, enabling further analysis and visualization.",
-    icon: React.createElement(CgWorkAlt),
-    date: "2021 - 2024",
-  },
+
   {
     title: "Bachelor's degree, Computer Science & Artificial Intelligence",
     location: "",
@@ -90,7 +75,7 @@ export const experiencesData = [
     title: "Software Engineer",
     location: "",
     description:
-      "Verto Wave",
+      "Verto Wave                                                         ",
     icon: React.createElement(CgWorkAlt),
     date: "2024 - Present",
   },
