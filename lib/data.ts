@@ -75,7 +75,7 @@ export const experiencesData = [
     title: "Software Engineer",
     location: "",
     description:
-      "Verto Wave",
+      "Vertowave",
     icon: React.createElement(CgWorkAlt),
     date: "2024 - Present",
   },
