@@ -75,7 +75,7 @@ export const experiencesData = [
     title: "Software Engineer",
     location: "Vertowave",
     description:
-      "Skills: C# · .NET Core · Entity Framework · Elasticsearch · SQL · Blazor · RabbitMQ · MassTransit · Docker",
+      "Skills: C# · .NET Core · Entity Framework · Elasticsearch · SQL · Blazor · RabbitMQ · MassTransit · REST APIs · Docker",
     icon: React.createElement(CgWorkAlt),
     date: "2024 - Present",
   },
