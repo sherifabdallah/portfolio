@@ -13,6 +13,8 @@ export const skillsData = [
   "Elasticsearch",
   "RabbitMQ",
   "MassTransit",
+  "Keycloak",
+  "OpenID Connect",
   "Blazor",
   "Docker",
   "React",
@@ -75,7 +77,7 @@ export const experiencesData = [
     title: "Software Engineer",
     location: "Vertowave",
     description:
-      "Skills: C# · .NET Core · Entity Framework · Elasticsearch · SQL · Blazor · RabbitMQ · MassTransit · REST APIs · Docker",
+      "Skills: C# · .NET Core · Entity Framework · Elasticsearch · SQL · Blazor · RabbitMQ · MassTransit · REST APIs · Keycloak · OpenID Connect · Docker",
     icon: React.createElement(CgWorkAlt),
     date: "2024 - Present",
   },
