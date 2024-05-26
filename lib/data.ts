@@ -27,9 +27,7 @@ export const skillsData = [
   "Bootstrap",
   "Python",
   "Django",
-  "PHP",
   "SQL",
-  "C++",
   "Git & GitHub",
   "Linux",
   
