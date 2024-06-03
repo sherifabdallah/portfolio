@@ -86,7 +86,7 @@ export const projectsData = [
     title: "Uber Eats Clone",
     description:
       "Contributed to the development of an Uber Eats clone system designed for users, restaurants, delivery drivers, and administrators. Demonstrated expertise in full-stack development, with a focus on implementing user authentication, dynamic listings, real-time tracking, and seamless integration with the Google Maps API.",
-    tags: ["React", "Node.js", "MongoDB", "JavaScript", "SQL", "HTML", "SASS"],
+    tags: ["React", "JavaScript", "SASS"],
     url: "https://github.com/sherifabdallah/Uber-Eats-Clone",
   },
 
