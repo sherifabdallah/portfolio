@@ -31,9 +31,7 @@ export default function About() {
           .NET Core and React
         </span>
         . I am always looking to
-        learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
-        developer.
+        learn new technologies. I am currently working as a <span className="font-medium">Software Engineer at Verto Wave</span>.
       </p>
 
       <p>
