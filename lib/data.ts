@@ -7,7 +7,7 @@ import rmtdevImg from "@/public/rmtdev.png";
 import wordanalyticsImg from "@/public/wordanalytics.png";
 
 export const skillsData = [
-  ".NET",
+  ".NET Core",
   "Entity Framework",
   "C#",
   "Elasticsearch",
