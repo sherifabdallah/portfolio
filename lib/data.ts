@@ -30,6 +30,19 @@ export const skillsData = [
   "SQL",
   "Git & GitHub",
   "Linux",
+  "CI/CD",
+  "Windows Server",
+  "Proxmox",
+  "Software Deployment",
+  "Internet Information Services (IIS)",
+  "Workflow Engine",
+  "Java",
+  "C++",
+  "WPF Development",
+  "Golang",
+  "Gin",
+  "GORM",
+  
   
 
 ] as const;
