@@ -21,6 +21,7 @@ export const skillsData = [
   "Redux",
   "TypeScript",
   "Shadcn",
+  "Tailwind CSS",
   "JavaScript",
   "SASS & CSS",
   "REST APIs",
