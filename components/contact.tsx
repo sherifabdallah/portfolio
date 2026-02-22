@@ -33,6 +33,8 @@ export default function Contact() {
 
       <p className="text-gray-700 -mt-6 dark:text-white/80">
         Please contact me directly at{" "}
+
+        {/* Email */}
         <a className="underline" href="mailto:sherif.abdullah.dev@gmail.com
 ">sherif.abdullah.dev@gmail.com</a>{" "}
         or through my personal number {" "}
@@ -45,4 +47,5 @@ export default function Contact() {
     </motion.section>
   );
 }
+
 
