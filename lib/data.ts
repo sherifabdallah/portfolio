@@ -102,7 +102,7 @@ export const experiencesData = [
     description:
       "Skills: Python, Flask, Docker, AWS, Kube, Appium, Automation and Unit Testing, Agile, API, Microservices",
     icon: React.createElement(CgWorkAlt),
-    date: "2024 - Present",
+    date: "2026 - Present",
   },
 ] as const;
 
