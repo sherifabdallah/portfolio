@@ -84,15 +84,23 @@ export const experiencesData = [
     title: "Bachelor's degree, Computer Science & Artificial Intelligence",
     location: "",
     description:
-      "Modern University for Technology & Information",
+      "Misr International University (MIU)",
     icon: React.createElement(LuGraduationCap),
-    date: "2023 - Present",
+    date: "2021 - 2025",
   },
   {
     title: "Software Engineer",
     location: "Vertowave",
     description:
       "Skills: C# · .NET Core · Entity Framework · Elasticsearch · SQL · Blazor · RabbitMQ · MassTransit · REST APIs · Keycloak · OpenID Connect · Docker",
+    icon: React.createElement(CgWorkAlt),
+    date: "2024 - 2026",
+  },
+    {
+    title: "Software Engineer",
+    location: "Projecx",
+    description:
+      "Skills: Python, Flask, Docker, AWS, Kube, Appium, Automation and Unit Testing, Agile, API, Microservices",
     icon: React.createElement(CgWorkAlt),
     date: "2024 - Present",
   },
