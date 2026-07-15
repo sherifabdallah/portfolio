@@ -84,7 +84,7 @@ export const experiencesData = [
     title: "Bachelor's degree, Computer Science & Artificial Intelligence",
     location: "",
     description:
-      "Misr International University (MIU)",
+      "Modern University for Technology & Information",
     icon: React.createElement(LuGraduationCap),
     date: "2021 - 2025",
   },
