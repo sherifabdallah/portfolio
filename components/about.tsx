@@ -22,8 +22,7 @@ export default function About() {
         I'm a{" "}
         <span className="font-medium">Senior Software Engineer</span> based in{" "}
         <span className="font-medium">Cairo, Egypt</span>, with a degree in{" "}
-        <span className="font-medium">Computer Science & Artificial Intelligence</span>{" "}
-        from Misr International University. I have{" "}
+        <span className="font-medium">Computer Science & Artificial Intelligence</span>. I have{" "}
         <span className="font-medium">4+ years of experience</span> building
         production-grade systems across backend, frontend, DevOps, and AI
         automation.
@@ -31,7 +30,7 @@ export default function About() {
       <p className="mb-3">
         <span className="italic">My favorite part of engineering</span> is
         designing{" "}
-        <span className="font-medium">scalable distributed systems</span> — from
+        <span className="font-medium">scalable distributed systems</span> from
         microservices and message queues to workflow engines and AI-powered
         pipelines. My core stack is{" "}
         <span className="font-medium">.NET Core, React, Python, and Docker</span>.
