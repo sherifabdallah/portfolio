@@ -44,7 +44,7 @@ export const projectsData = [
       "Enterprise automation platform managing 10,000+ devices and 25+ backend services in production. Developed a visual workflow builder and real-time response tools. Designed reusable UI and Authorization libraries, boosting frontend development speed. Applied AI-driven workflow automation and predictive analytics for task prioritization and error reduction.",
     tags: [".NET", "RabbitMQ", "Keycloak", "SQL", "React", "TypeScript", "Python", "LangChain", "Docker"],
     url: "",
-    imageUrls: ["/stack-pic1.png"],
+    imageUrls: ["/stack-pic1.png", "/stack-pic2.png"],
   },
   {
     title: "Uber Eats Clone",
