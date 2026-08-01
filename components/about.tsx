@@ -19,27 +19,34 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-      After beginning my studies at the faculty of {" "}
-        <span className="font-medium">Computer Science</span>, I decided to pursue my
-        passion for programming. I enrolled in a coding bootcamp and learned{" "}
-        <span className="font-medium">full-stack web development</span>.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
-        <span className="font-medium">
-          .NET Core and React
-        </span>
-        . I am always looking to
-        learn new technologies. I am currently working as a <span className="font-medium">Software Engineer at Verto Wave</span>.
+        I'm a{" "}
+        <span className="font-medium">Senior Software Engineer</span> based in{" "}
+        <span className="font-medium">Cairo, Egypt</span>, with a degree in{" "}
+        <span className="font-medium">Computer Science & Artificial Intelligence</span>{" "}
+        from Misr International University. I have{" "}
+        <span className="font-medium">4+ years of experience</span> building
+        production-grade systems across backend, frontend, DevOps, and AI
+        automation.
       </p>
-
+      <p className="mb-3">
+        <span className="italic">My favorite part of engineering</span> is
+        designing{" "}
+        <span className="font-medium">scalable distributed systems</span> — from
+        microservices and message queues to workflow engines and AI-powered
+        pipelines. My core stack is{" "}
+        <span className="font-medium">.NET Core, React, Python, and Docker</span>.
+        I love tackling hard infrastructure problems and turning complex
+        requirements into clean, maintainable solutions.
+      </p>
       <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing
-        video games, watching movies, and hanging out with my friends. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>. I am currently
-        learning about{" "}
-        <span className="font-medium">history and philosophy</span>. I'm also playing gym.
+        Currently, I'm working as a{" "}
+        <span className="font-medium">Senior Software Engineer at Projecx</span>
+        , maintaining automation systems running across{" "}
+        <span className="font-medium">200+ mobile devices</span> in parallel and
+        integrating AI-powered agents using{" "}
+        <span className="font-medium">LangChain & LangGraph</span>.{" "}
+        <span className="italic">When I'm not coding</span>, I enjoy working
+        out, watching movies, and learning new things in history and philosophy.
       </p>
     </motion.section>
   );
