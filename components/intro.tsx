@@ -57,7 +57,7 @@ export default function Intro() {
         <span className="font-bold">Hello, I'm Sherif.</span> I'm a{" "}
         <span className="font-bold">Senior Software Engineer.</span>{" "}
         <br />I build{" "}
-        <span className="italic">scalable systems & automation</span>.<br /> My focus is{" "}
+        <span className="italic">Great Software</span>.<br /> My focus is{" "}
         <span className="underline">.NET Core, React & AI</span>.
       </motion.h1>
 
@@ -81,8 +81,8 @@ export default function Intro() {
 
         <a
           className="group bg-white px-6 py-3 w-full sm:w-auto flex items-center justify-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10"
-          href="/CV.pdf"
-          download
+          href="https://drive.google.com/file/d/1hKGGuszIm42d3ZCO2Az2ETsWDFowJfIV/view?usp=sharing"
+          target="_blank"
         >
           Download CV{" "}
           <HiDownload className="opacity-60 group-hover:translate-y-1 transition" />
