@@ -29,7 +29,7 @@ export const experiencesData = [
   },
   {
     title: "Software Engineer",
-    location: "Freelancer.com",
+    location: "Upwork",
     description:
       "Designed and delivered secure internal data management systems for government and security sector clients, enabling real-time monitoring and tracking. Built and deployed full-stack web applications and e-commerce platforms for international clients, covering end-to-end development from database design to frontend delivery.",
     icon: React.createElement(CgWorkAlt),
